@@ -1,0 +1,4 @@
+../CCU_Lib/Src/sp100_tle94108es.c:13:6:SP100_TLE_Init	8	static
+../CCU_Lib/Src/sp100_tle94108es.c:20:6:SP100_TLE_DeInit	8	static
+../CCU_Lib/Src/sp100_tle94108es.c:26:9:SP100_TLE_Ctrl_Register_Read	40	static
+../CCU_Lib/Src/sp100_tle94108es.c:37:9:SP100_TLE_Ctrl_Register_Write	40	static

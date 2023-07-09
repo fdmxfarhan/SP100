@@ -1,0 +1,4 @@
+../CCU_Lib/Src/sp100_am_ma.c:14:6:SP100_AM_MA_STP	24	static
+../CCU_Lib/Src/sp100_am_ma.c:32:6:SP100_AM_MA_FWD	24	static
+../CCU_Lib/Src/sp100_am_ma.c:51:6:SP100_AM_MA_RVS	24	static
+../CCU_Lib/Src/sp100_am_ma.c:70:6:SP100_AM_MA_Handler	16	static

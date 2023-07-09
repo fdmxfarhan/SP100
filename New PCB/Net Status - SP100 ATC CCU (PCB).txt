@@ -1,0 +1,154 @@
+Net Status Report
+Filename     : C:\Users\Farhan\Documents\SP100\New PCB\SP100 ATC CCU (PCB).PcbDoc
+Date         : 6/28/2023
+Time         : 12:05:51 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +12V, Signal Layers Only, 88.4152mm
+    +3.3V, Signal Layers Only, 703.1661mm
+    +5V, Signal Layers Only, 176.7612mm
+    +INA, Signal Layers Only, 55.0305mm
+    +INB, Signal Layers Only, 22.0224mm
+    -INA, Signal Layers Only, 7.1709mm
+    -INB, Signal Layers Only, 19.7296mm
+    AIR MIX FEEDBAKE, Signal Layers Only, 64.3512mm
+    AIR MIX FEEDBAKE(Ch.06), Signal Layers Only, 29.2481mm
+    AIR MIX MA +, Signal Layers Only, 45.398mm
+    AIR MIX MA -, Signal Layers Only, 68.6151mm
+    AMB SENSOR, Signal Layers Only, 13.0727mm
+    AMB SENSOR(Ch.02), Signal Layers Only, 33.4965mm
+    AUTO_LED, Signal Layers Only, 114.3726mm
+    AUTO_SW(Ext.09), Signal Layers Only, 144.9022mm
+    Airmix_Down_SW (Ext.01), Signal Layers Only, 60.9355mm
+    Airmix_Up_SW (Ext.13), Signal Layers Only, 61.5813mm
+    B, Signal Layers Only, 14.0115mm
+    BAT, Signal Layers Only, 20.4135mm
+    BLOWER OUT, Signal Layers Only, 74.0054mm
+    BOOT0, Signal Layers Only, 24.9676mm
+    B_F, Signal Layers Only, 62.6787mm
+    B_V, Signal Layers Only, 58.2074mm
+    Blower_Control(Ch.07), Signal Layers Only, 53.6353mm
+    Blower_Control(PWM), Signal Layers Only, 29.0538mm
+    Blower_Down_SW (Ext.08), Signal Layers Only, 104.5043mm
+    Blower_UP_SW (Ext.07), Signal Layers Only, 108.629mm
+    COM0, Signal Layers Only, 74.1329mm
+    COM1, Signal Layers Only, 68.1417mm
+    COM2, Signal Layers Only, 71.2881mm
+    COM3, Signal Layers Only, 65.3974mm
+    COMP, Signal Layers Only, 84.9918mm
+    COMP LED, Signal Layers Only, 54.2923mm
+    COMP_SW(Ext.10), Signal Layers Only, 81.9354mm
+    CSB_SPI1, Signal Layers Only, 4.963mm
+    C_1, Signal Layers Only, 3.3163mm
+    C_2, Signal Layers Only, 3.189mm
+    C_3, Signal Layers Only, 3.865mm
+    C_4, Signal Layers Only, 4.6131mm
+    C_5, Signal Layers Only, 4.1913mm
+    DEF LED, Signal Layers Only, 33.8636mm
+    DEF_SW(Ext.06), Signal Layers Only, 72.727mm
+    EN_SPI1, Signal Layers Only, 18.7691mm
+    EVAP SENSOR, Signal Layers Only, 54.4726mm
+    EVAP SENSOR(Ch.03), Signal Layers Only, 44.3462mm
+    GND, Signal Layers Only, 2384.5207mm
+    IGN, Signal Layers Only, 22.5785mm
+    IGN_VOLT (Ext.05), Signal Layers Only, 76.0191mm
+    ILLUMINTION, Signal Layers Only, 64.0044mm
+    ILLUMINTION+, Signal Layers Only, 338.8223mm
+    INCAR SENSOR, Signal Layers Only, 8.944mm
+    INCAR SENSOR(Ch.00), Signal Layers Only, 44.5534mm
+    INTAKE LED, Signal Layers Only, 30.6687mm
+    INTAKE MA +, Signal Layers Only, 16.348mm
+    INTAKE MA -, Signal Layers Only, 21.8097mm
+    Illumination (Ext.04), Signal Layers Only, 68.6457mm
+    Intake_SW (Ext.15), Signal Layers Only, 57.7619mm
+    LCD_Backlight (TIM3_CH3), Signal Layers Only, 54.1933mm
+    LCD_SCL (I2C2_SCL), Signal Layers Only, 37.2119mm
+    LCD_SDA (I2C2_SDA), Signal Layers Only, 42.1526mm
+    MISO_SPI1, Signal Layers Only, 15.5034mm
+    MODE FEEDBAK, Signal Layers Only, 71.1681mm
+    MODE FEEDBAK(Ch.05), Signal Layers Only, 35.8656mm
+    MODE MA +, Signal Layers Only, 13.8054mm
+    MODE MA -, Signal Layers Only, 12.8211mm
+    MOSI_SPI1, Signal Layers Only, 17.549mm
+    Mode_SW (Ext.12), Signal Layers Only, 154.4589mm
+    NRST, Signal Layers Only, 9.8673mm
+    Net1_1, Signal Layers Only, 2.9245mm
+    NetC55_2, Signal Layers Only, 4.2599mm
+    NetC68_2, Signal Layers Only, 3.8292mm
+    NetC69_2, Signal Layers Only, 4.7351mm
+    NetC70_2, Signal Layers Only, 6.5714mm
+    NetC71_2, Signal Layers Only, 4.8822mm
+    NetC72_2, Signal Layers Only, 4.2439mm
+    NetLCD1_1, Signal Layers Only, 2.7184mm
+    NetLCD1_23, Signal Layers Only, 3.5093mm
+    NetLED10_2, Signal Layers Only, 7.247mm
+    NetLED11_2, Signal Layers Only, 7.24mm
+    NetLED12_2, Signal Layers Only, 16.9784mm
+    NetLED13_2, Signal Layers Only, 16.6071mm
+    NetLED14_2, Signal Layers Only, 17.7208mm
+    NetLED15_2, Signal Layers Only, 12.4434mm
+    NetLED16_2, Signal Layers Only, 10.0341mm
+    NetLED17_2, Signal Layers Only, 17.4614mm
+    NetLED18_2, Signal Layers Only, 3.907mm
+    NetLED19_2, Signal Layers Only, 10.4426mm
+    NetLED1_2, Signal Layers Only, 42.669mm
+    NetLED20_2, Signal Layers Only, 3.6406mm
+    NetLED21_2, Signal Layers Only, 12.9863mm
+    NetLED22_2, Signal Layers Only, 35.1648mm
+    NetLED2_2, Signal Layers Only, 10.9373mm
+    NetLED3_2, Signal Layers Only, 23.6069mm
+    NetLED4_2, Signal Layers Only, 8.1869mm
+    NetLED5_2, Signal Layers Only, 19.1186mm
+    NetLED6_2, Signal Layers Only, 18.4061mm
+    NetLED7_2, Signal Layers Only, 4.1831mm
+    NetLED8_2, Signal Layers Only, 7.0442mm
+    NetLED9_2, Signal Layers Only, 6.8807mm
+    NetQ1_2, Signal Layers Only, 155.6299mm
+    NetQ1_3, Signal Layers Only, 2.9389mm
+    NetQ2_3, Signal Layers Only, 9.5037mm
+    NetR27_2, Signal Layers Only, 3.101mm
+    NetR51_2, Signal Layers Only, 2.8228mm
+    OSC_IN, Signal Layers Only, 17.5432mm
+    OSC_OUT, Signal Layers Only, 9.812mm
+    OUTA, Signal Layers Only, 29.4268mm
+    OUTB, Signal Layers Only, 31.1171mm
+    POWER_SW(Ext.14), Signal Layers Only, 86.8786mm
+    R-DEF LED, Signal Layers Only, 71.2971mm
+    R_DEF, Signal Layers Only, 65.5986mm
+    R_DEF_SW (Ext.11), Signal Layers Only, 108.2627mm
+    SCLK_SPI1, Signal Layers Only, 0mm
+    SEG0, Signal Layers Only, 21.7197mm
+    SEG1, Signal Layers Only, 24.2139mm
+    SEG10, Signal Layers Only, 58.4297mm
+    SEG11, Signal Layers Only, 61.9317mm
+    SEG12, Signal Layers Only, 65.6987mm
+    SEG13, Signal Layers Only, 69.4606mm
+    SEG14, Signal Layers Only, 72.745mm
+    SEG15, Signal Layers Only, 69.1252mm
+    SEG16, Signal Layers Only, 75.4748mm
+    SEG2, Signal Layers Only, 27.4829mm
+    SEG3, Signal Layers Only, 29.8984mm
+    SEG4, Signal Layers Only, 33.8821mm
+    SEG5, Signal Layers Only, 37.5025mm
+    SEG6, Signal Layers Only, 41.3072mm
+    SEG7, Signal Layers Only, 45.1689mm
+    SEG8, Signal Layers Only, 50.8654mm
+    SEG9, Signal Layers Only, 54.8541mm
+    SHIFT1, Signal Layers Only, 18.1676mm
+    SHIFT2, Signal Layers Only, 20.1751mm
+    SHIFT3, Signal Layers Only, 25.9987mm
+    SHIFT4, Signal Layers Only, 34.4977mm
+    SHIFT5, Signal Layers Only, 34.013mm
+    SHIFT6, Signal Layers Only, 25.2373mm
+    SHIFT7, Signal Layers Only, 18.9694mm
+    SHIFT8, Signal Layers Only, 10.2487mm
+    SWDCLK, Signal Layers Only, 57.2101mm
+    SWDIO, Signal Layers Only, 55.6032mm
+    VDD, Signal Layers Only, 8.4878mm
+    VDDA, Signal Layers Only, 8.8147mm
+    VP, Signal Layers Only, 382.5033mm
+    VSSA, Signal Layers Only, 10.3459mm
+    WATER SENSOR, Signal Layers Only, 8.9345mm
+    WATER SENSOR(Ch.01), Signal Layers Only, 40.0405mm
+count : 146

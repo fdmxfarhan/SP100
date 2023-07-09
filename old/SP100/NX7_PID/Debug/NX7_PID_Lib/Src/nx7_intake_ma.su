@@ -1,0 +1,4 @@
+nx7_intake_ma.c:12:6:NX7_Intake_MA_STP	16	static
+nx7_intake_ma.c:23:6:NX7_Intake_MA_Fresh	16	static
+nx7_intake_ma.c:34:6:NX7_Intake_MA_Recycle	16	static
+nx7_intake_ma.c:45:6:NX7_Intake_MA_Handler	16	static

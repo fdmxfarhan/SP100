@@ -1,0 +1,3 @@
+../CCU_Lib/Src/sp100_rd_ctrl.c:14:6:SP100_RD_OFF	24	static
+../CCU_Lib/Src/sp100_rd_ctrl.c:35:6:SP100_RD_ON	24	static
+../CCU_Lib/Src/sp100_rd_ctrl.c:57:6:SP100_RD_Handler	16	static

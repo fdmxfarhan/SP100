@@ -1,0 +1,4 @@
+nx7_tle94106es.c:13:6:NX7_TLE_Init	8	static
+nx7_tle94106es.c:20:6:NX7_TLE_DeInit	8	static
+nx7_tle94106es.c:26:9:NX7_TLE_Ctrl_Register_Read	32	static
+nx7_tle94106es.c:37:9:NX7_TLE_Ctrl_Register_Write	32	static

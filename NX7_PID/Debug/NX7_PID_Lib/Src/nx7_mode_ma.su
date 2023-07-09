@@ -1,0 +1,4 @@
+nx7_mode_ma.c:16:6:NX7_Mode_MA_STP	16	static
+nx7_mode_ma.c:34:6:NX7_Mode_MA_FWD	16	static
+nx7_mode_ma.c:53:6:NX7_Mode_MA_RVS	16	static
+nx7_mode_ma.c:72:6:NX7_Mode_MA_Handler	16	static

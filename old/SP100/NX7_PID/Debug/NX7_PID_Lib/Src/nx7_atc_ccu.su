@@ -1,0 +1,6 @@
+nx7_atc_ccu.c:70:6:NX7_Delay	16	static
+nx7_atc_ccu.c:76:6:NX7_CCU_Init	8	static
+nx7_atc_ccu.c:85:6:NX7_CCU_State_Updater	16	static
+nx7_atc_ccu.c:95:6:NX7_CCU_Switch_Handler	16	static
+nx7_atc_ccu.c:464:6:NX7_AUTO_Error_State_Handler	4	static
+nx7_atc_ccu.c:471:6:NX7_CCU_Infinite_Loop	8	static

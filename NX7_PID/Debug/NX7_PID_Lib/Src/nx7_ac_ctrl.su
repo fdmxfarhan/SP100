@@ -1,0 +1,3 @@
+nx7_ac_ctrl.c:14:6:NX7_AC_OFF	8	static
+nx7_ac_ctrl.c:21:6:NX7_AC_ON	8	static
+nx7_ac_ctrl.c:36:6:NX7_AC_Handler	16	static

@@ -1,0 +1,3 @@
+nx7_pid_ctrl.c:50:6:NX7_PID_Ctrl_No_Hysteresis	32	static
+nx7_pid_ctrl.c:240:6:NX7_PID_Ctrl	48	static
+nx7_pid_ctrl.c:570:6:NX7_PID_Ctrl_Blower	4	static

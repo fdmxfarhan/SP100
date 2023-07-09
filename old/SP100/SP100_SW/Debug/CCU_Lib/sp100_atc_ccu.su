@@ -1,0 +1,8 @@
+../CCU_Lib/sp100_atc_ccu.c:30:6:SP100_Delay	24	static
+../CCU_Lib/sp100_atc_ccu.c:36:6:SP100_CCU_Init	8	static
+../CCU_Lib/sp100_atc_ccu.c:45:6:SP100_CCU_DeInit	8	static
+../CCU_Lib/sp100_atc_ccu.c:54:6:SP100_Variables_Init	8	static
+../CCU_Lib/sp100_atc_ccu.c:78:6:SP100_CCU_State_Updater	16	static
+../CCU_Lib/sp100_atc_ccu.c:90:6:SP100_CCU_Switch_Handler	16	static
+../CCU_Lib/sp100_atc_ccu.c:594:6:SP100_AUTO_Error_State_Handler	8	static
+../CCU_Lib/sp100_atc_ccu.c:601:6:SP100_CCU_Infinite_Loop	8	static

@@ -1,0 +1,6 @@
+--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork 
+-I.\RTE\_test-01_LCD
+-IC:\Users\bitbin.ir\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include
+-IC:\Users\bitbin.ir\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include
+--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "STM32F072xB SETA 1" --pd "_RTE_ SETA 1"
+--list libsp100_stc.lst --xref -o "test-01 lcd\libsp100_stc.o" --depend "test-01 lcd\libsp100_stc.d" "..\Core\Src\libSP100_STC.a"

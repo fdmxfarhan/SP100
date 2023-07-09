@@ -1,0 +1,4 @@
+../CCU_Lib/sp100_it_ma.c:12:6:SP100_IT_MA_STP	24	static
+../CCU_Lib/sp100_it_ma.c:27:6:SP100_IT_MA_Fresh	24	static
+../CCU_Lib/sp100_it_ma.c:44:6:SP100_IT_MA_Recycle	24	static
+../CCU_Lib/sp100_it_ma.c:61:6:SP100_IT_MA_Handler	16	static

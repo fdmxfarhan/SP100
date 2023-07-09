@@ -1,0 +1,3 @@
+../CCU_Lib/Src/sp100_isi_ctrl.c:25:6:SP100_ISI_Ctrl_No_Hysteresis	40	static,ignoring_inline_asm
+../CCU_Lib/Src/sp100_isi_ctrl.c:366:6:SP100_ISI_Ctrl	64	static,ignoring_inline_asm
+../CCU_Lib/Src/sp100_isi_ctrl.c:878:6:SP100_ISI_Ctrl_BL	8	static

@@ -1,0 +1,5 @@
+nx7_blower_fan.c:15:6:NX7_Blower_Init	8	static
+nx7_blower_fan.c:23:6:NX7_Blower_OFF	8	static
+nx7_blower_fan.c:36:6:NX7_Blower_Up	8	static
+nx7_blower_fan.c:50:6:NX7_Blower_Down	8	static
+nx7_blower_fan.c:64:6:NX7_Blower_Handler	16	static

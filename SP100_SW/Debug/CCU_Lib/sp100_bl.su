@@ -1,0 +1,6 @@
+../CCU_Lib/sp100_bl.c:13:6:SP100_BL_Init	8	static
+../CCU_Lib/sp100_bl.c:21:6:SP100_BL_DeInit	8	static
+../CCU_Lib/sp100_bl.c:28:6:SP100_BL_OFF	8	static
+../CCU_Lib/sp100_bl.c:39:6:SP100_BL_Up	8	static
+../CCU_Lib/sp100_bl.c:55:6:SP100_BL_Down	8	static
+../CCU_Lib/sp100_bl.c:71:6:SP100_BL_Handler	16	static
